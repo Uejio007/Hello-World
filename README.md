@@ -1,2 +1,2 @@
 # Hello-World
-Cutting my Teeth
+Cutting my Teeth on python programming.
